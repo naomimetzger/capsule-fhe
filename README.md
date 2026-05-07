@@ -1,1 +1,1 @@
-# capsule-fhe
+Encrypted group time capsule on Fhenix
